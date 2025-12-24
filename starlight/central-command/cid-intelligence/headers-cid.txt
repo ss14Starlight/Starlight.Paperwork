@@ -15,6 +15,5 @@
 
         [mono][color=FireBrick][bold]CONFIDENTIAL CONFIDENTIAL CONFIDENTIAL[/bold][/color][/mono]
                             [mono] [bold]AUTHORISED EYES ONLY
-                              CLEARANCE LEVEL: [italic]BLACK[/italic][/bold][/mono]
-[head=1]────────────────────[/head]
+             CLEARANCE LEVEL: [italic]BLACK[/italic][/bold][/mono]
 

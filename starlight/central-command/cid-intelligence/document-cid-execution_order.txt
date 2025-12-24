@@ -7,7 +7,7 @@
 
         [mono][color=FireBrick][bold]CONFIDENTIAL CONFIDENTIAL CONFIDENTIAL[/bold][/color][/mono]
                             [mono] [bold]AUTHORISED EYES ONLY
-                              CLEARANCE LEVEL: [italic]BLACK[/italic][/bold][/mono]
+             CLEARANCE LEVEL: [italic]BLACK[/italic][/bold][/mono]
 [head=1]────────────────────[/head]
 [mono][head=3][bold]SUBJECT DETAILS:[/bold][/head][/mono]
 • [mono]Position of target:[/mono]
@@ -15,9 +15,13 @@
 • [mono]Authorizing Operator:[/mono]
 
 [head=1]────────────────────[/head]
-[mono]I, NAME OF CID OPERATOR, hereby authorize the immediate contract termination of the employee known as NAME OF TARGET, in the position of POSITION OF TARGET.
+[mono]I, NAME OF CID OPERATOR, hereby authorize the 
+immediate contract termination of the employee
+known as NAME OF TARGET, in the position of 
+POSITION OF TARGET.
 
-This individual is to be executed by a Central Command operative.
+This individual is to be executed by 
+a Central Command operative.
 
 Signed,
 OPERATOR NAME
