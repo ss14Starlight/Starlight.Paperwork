@@ -1,16 +1,16 @@
 [color=#18304b][mono]██████ ▄█████ ██████ [/mono][mono]TRANS-SOLAR FEDERATION[/mono]
 [mono]  ██   ▀▀▀▄▄▄ ██▄▄  [/mono]  [mono]OFFICE OF FRONTIER AFFAIRS[/mono]
 [mono]  ██   █████▀ ██  [/mono]      [mono]STARLIGHT SECTOR OFFICE[/mono][/color]
- [color=#e6c825][head=1]⋆───────⋆⋅──⋅⋆───────⋆[/head] [/color]
+ [color=#e6c825][head=1]────────────────────[/head] [/color]
          [color=#18304b][mono] [head=2] YADDA YADDA THIS IS A TITLE[/head] [/mono][/color]
-[color=#e6c825][head=1]☼⋆──────⋆⋅──⋅⋆──────⋆☼[/head] [/color]               
+[color=#e6c825][head=1]────────────────────[/head] [/color]              
 [bolditalic]To Whom It May Concern,[/bolditalic]
 
 
 [bolditalic]Forward, the Federation![/bolditalic]
 (NAME)
-[color=#e6c825][head=1]⋆───────⋆⋅──⋅⋆───────⋆[/head] [/color]
-[color=DarkGray]
-                   [mono]AREA FOR STAMPS AND SIGNATURES[/mono]
-[/color]
+[color=#e6c825][head=1]────────────────────[/head] [/color]
+          
+                   [color=DarkGray][mono]AREA FOR STAMPS AND SIGNATURES[/mono][/color]
+
           [color=Gainsboro][mono]OFFICIAL TSF DOCUMENT, DO NOT REPLICATE[/mono][/color]
