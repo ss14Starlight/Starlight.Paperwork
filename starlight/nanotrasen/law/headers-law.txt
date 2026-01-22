@@ -1,0 +1,5 @@
+[head=1][color=#ad0101]────────────────────[/color][/head]
+[color=#C70667]█░░ █▀▀█ █░░░█[/color] [head=3]  [color=#ad0101]INTERNAL AFFAIRS BUREAU[/color][/head]
+[color=#C70667]█░░ █▄▄█ █▄█▄█[/color][bolditalic]  [color=#ad0101] No one is above the law[/color][/bolditalic]
+[color=#C70667]▀▀▀ ▀░░▀ ░▀░▀░[/color]   [color=#aaaaaa][italic]OFFICIAL LAW OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#ad0101]────────────────────[/color][/head]

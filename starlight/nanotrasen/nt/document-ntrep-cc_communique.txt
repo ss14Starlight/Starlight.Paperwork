@@ -3,4 +3,14 @@
 [color=#134975]█▀█▄█ ░░█░░[/color][bolditalic][color=#1b67a5]  Together, we change worlds...[/color][/bolditalic]
 [color=#134975]█░░▀█ ░░█░░[/color]  [color=#aaaaaa][italic]OFFICIAL NANOTRASEN DOCUMENT[/italic][/color]
 [head=1][color=#1b67a5]────────────────────[/color][/head]
+[center][color=#1f75bb][bold]   OFFICIAL NANOTRASEN REPRESENTATIVE COMMUNIQUE[/bold][/color][/center] 
 
+[bold]To: [color=#009100]Central Command[/color][/bold]
+[bold]Subject:[/bold] YOUR SUBJECT
+[italic]
+Good day, Central Command.
+
+[/italic] 
+Sincerely yours, [bold][color=#0c77ce]YOUR NAME[/color][/bold], [color=#1f75bb]Nanotrasen Representative[/color].
+
+[head=1]────────────────────[/head]

@@ -1,0 +1,37 @@
+[head=1][color=#AD0D1D]────────────────────  TOP SECRET – RED LEVEL  ────────────────────[/color][/head]
+[color=#134975]█▄░░█ ▀▀█▀▀[/color]  [head=3][color=#1b67a5]NANOTRASEN CORPORATION[/color][/head]
+[color=#134975]█▀█▄█ ░░█░░[/color][bolditalic][color=#1b67a5]  Together, we change worlds...[/color][/bolditalic]
+[color=#134975]█░░▀█ ░░█░░[/color]  [color=#aaaaaa][italic]OFFICIAL NANOTRASEN DOCUMENT[/italic][/color]
+[head=1][color=#1b67a5]────────────────────[/color][/head]
+[color=#134975][bold]                  EMERGENCY RESPONSE TEAM REQUEST[/bold][/color]
+
+[bolditalic][color=#AD0D1D]NOTICE: This document is classified RED – TOP SECRET.  
+Unauthorized viewing by non-Nanotrasen Representatives will result in immediate contract termination.[/color][/bolditalic]
+
+ [bold]NATURE OF THE EMERGENCY[/bold]
+( ) [color=#AD0D1D][bold]█ SYNDICATE[/bold][/color]  
+( ) [color=#21A52E][bold]█ BIOLOGICAL[/bold][/color]  
+( ) [color=#f39f27][bold]█ STRUCTURAL[/bold][/color]  
+( ) [color=#5b97bc][bold]█ MEDICAL[/bold][/color]  
+( ) [color=#C70667][bold]█ OTHER[/bold][/color] (specify):
+
+ [bold]URGENCY OF THE RESPONSE[/bold]
+( ) [color=#6cc916][bold]█ LOW[/bold][/color]  
+( ) [color=#FF8000][bold]█ CONCERNING[/bold][/color]  
+( ) [color=#ff0000][bold]█ IMMINENT[/bold][/color]  
+
+ [bold]LEVEL OF DANGER[/bold]
+( ) [color=#21A52E][bold]█ TRIVIAL[/bold][/color]  
+( ) [color=#FF8000][bold]█ MODERATE[/bold][/color]  
+( ) [color=#D61128][bold]█ STATION-WIDE[/bold][/color]  
+( ) [color=#134975][bold]█ INTER-STATION[/bold][/color]  
+
+ [bold]ADDITIONAL ALERT REQUESTED[/bold] (at your discretion)
+( ) [color=#134975][bold]█ CODE: EPSILON[/bold][/color]
+
+[bold]BY SENDING THIS REQUEST, I ACCEPT THAT THE STATION'S WORKERS' PAYCHECKS MAY BE TERMINATED TO COMPENSATE THE COST OF DEPLOYING AN EMERGENCY RESPONSE TEAM[/bold]  
+( ) [color=#009100][bold]YES[/bold][/color]
+
+[bolditalic]GLORY TO NANOTRASEN[/bolditalic]
+
+[head=1]────────────────────[/head]

@@ -1,0 +1,18 @@
+[head=1][color=#1b67a5]────────────────────[/color][/head]
+[color=#134975]█▄░░█ ▀▀█▀▀[/color]  [head=3][color=#1b67a5]NANOTRASEN CORPORATION[/color][/head]
+[color=#134975]█▀█▄█ ░░█░░[/color][bolditalic][color=#1b67a5]  Together, we change worlds...[/color][/bolditalic]
+[color=#134975]█░░▀█ ░░█░░[/color]  [color=#aaaaaa][italic]OFFICIAL NANOTRASEN DOCUMENT[/italic][/color]
+[head=1][color=#1b67a5]────────────────────[/color][/head]
+[center][color=#1f75bb][bold]   OFFICIAL NANOTRASEN REPRESENTATIVE COMMUNIQUE[/bold][/color][/center] 
+
+[bold]Receiving Department(s):[/bold]
+( ) [color=#cb0000]Security[/color] | ( ) [color=#c96dbf]Science[/color] | ( ) [color=#b18644]Cargo[/color] | ( ) [color=#5b97bc]Medical[/color]
+( ) [color=#f39f27]Engineering[/color] | ( ) [color=#9fed58]Service[/color] | ( ) [color=#1b67a5]Command[/color] | ( ) [color=#C70667]Justice[/color]
+
+[bold]Subject:[/bold] 
+[italic]
+
+[/italic] 
+Sincerely yours, [bold][color=#0c77ce]YOUR NAME[/color][/bold], [color=#1f75bb]Nanotrasen Representative[/color].
+
+[head=1]────────────────────[/head]

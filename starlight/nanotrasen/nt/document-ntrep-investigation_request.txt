@@ -1,0 +1,41 @@
+[head=1][color=#1b67a5]────────────────────[/color][/head]
+[color=#134975]█▄░░█ ▀▀█▀▀[/color]  [head=3][color=#1b67a5]NANOTRASEN CORPORATION[/color][/head]
+[color=#134975]█▀█▄█ ░░█░░[/color][bolditalic][color=#1b67a5]  Together, we change worlds...[/color][/bolditalic]
+[color=#134975]█░░▀█ ░░█░░[/color]  [color=#aaaaaa][italic]OFFICIAL NANOTRASEN DOCUMENT[/italic][/color]
+[head=1][color=#1b67a5]────────────────────[/color][/head]
+[center][color=#1f75bb][bold]                      OFFICIAL NANOTRASEN DOCUMENT[/bold][/color][/center] 
+
+[head=1]────────────────────[/head]
+ [bold]DEPARTMENT INSPECTED[/bold]
+
+Department Name: [italic][mono][color=RoyalBlue]ENTER HERE[/color][/mono][/italic]  
+Department Head: [italic][mono][color=RoyalBlue]ENTER HERE[/color][/mono][/italic]  
+Head Present During Inspection: [color=green]\[ ] Yes[/color]    [color=red]\[ ] No[/color]  
+
+[head=1]────────────────────[/head]
+ [bold]OBSERVED SOP BREACHES[/bold]
+
+[italic][mono][color=RoyalBlue][bullet]ENTER HERE
+[bullet]
+[bullet][/color][/mono][/italic]
+
+[head=1]────────────────────[/head]
+ [bold]RELEVANT NOTES[/bold]
+
+[italic][mono][color=RoyalBlue]ENTER HERE[/color][/mono][/italic]
+
+[head=1]────────────────────[/head]
+ [bold]RECOMMENDED ACTIONS[/bold]
+
+\[ ] No Further Action Required  
+\[ ] Formal Warning to Department Head    
+\[ ] CentCom Audit Recommended  
+\[ ] Dimissal of employee(s)
+    Employee name and position: [italic][mono][color=RoyalBlue]Name, position[/color][/mono][/italic]
+\[ ] Dismissal of the head
+
+[head=1]────────────────────[/head]
+
+Respectfully submitted,  
+[italic][mono][color=RoyalBlue]NAME, POSITION[/color][/mono][/italic]
+[head=2][bold][color=DodgerBlue]GLORY TO NANOTRASEN![/color][/bold][/head][italic][/italic]

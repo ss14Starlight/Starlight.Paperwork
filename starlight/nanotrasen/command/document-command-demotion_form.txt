@@ -1,0 +1,39 @@
+[head=1][color=#135285]────────────────────[/color][/head]
+[color=#1b67a5]█▀▀ █▀▄▀█ █▀▀▄[/color] [head=3] [color=#135285]COMMAND STAFF[/color][/head]
+[color=#1b67a5]█░░ █░▀░█ █░░█[/color][bolditalic] [color=#135285] Heads are here to command the bodies[/color][/bolditalic]
+[color=#1b67a5]▀▀▀ ▀░░░▀ ▀▀▀░[/color]  [color=#aaaaaa][italic]OFFICIAL COMMAND OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#135285]────────────────────[/color][/head]
+                          [bold]EMPLOYEE DEMOTION NOTICE[/bold]
+
+[italic]This document serves as a demotion notice used by Heads of staff against employees of their department. The employee stated in this document is to immediately be stripped of any of their access and job-related gear. A demotion notice must include a valid reason, or else it is to be ignored.[/italic]
+
+[bold]Demotion Head of Staff:[/bold] YOUR NAME
+[bold]Department:[/bold] YOUR DEPARTMENT
+
+[bold]Demoted Employee:[/bold] THEIR NAME
+[bold]Demoted from position:[/bold] THEIR JOB
+
+[bold]Issue encountered:[/bold]
+( )  [color=#ff0000]Medium-severe breach of SOP without proper cause.[/color]
+( )  [color=#ff7400]Medium crime or higher.[/color]
+( )  [color=#fff000]Critical incompetence, or maliciously under performing.[/color]
+( )  [color=#2eff00]Refusal to follow legal and relevant orders by the respective Head of Staff.[/color]
+( )  [color=#0013ff]Creation of a hostile, or unsafe work environment.[/color]
+( )  [color=#8f00ff]Other (specifiy):[/color]
+
+[bold]Additional punishment request:[/bold] [italic](optionnal)[/italic]
+YOUR REQUEST HERE
+
+[bold]Additional comments:[/bold] [italic](optionnal)[/italic]
+YOUR COMMENTS HERE
+
+[bold]Was a warning issued prior to the Demotion?[/bold]
+( ) [color=#17ff00][bold]Yes[/bold][/color]  |  ( ) [color=#c10000][bold]No[/bold][/color]
+
+[bold]Stamps Required:[/bold]
+[bullet] [color=#1b67a5][bold]Head of Department[/bold][/color] [italic](issuing the demotion notice)[/italic]
+[bullet] [color=#134975][bold]Nanotrasen Representative[/bold][/color] [italic](if available)[/italic]
+[bullet] [color=#DFBC00][bold]Captain[/bold][/color] [italic](if applicable)[/italic]
+
+[head=1]────────────────────[/head]
+                                              [italic]Stamps[/italic]

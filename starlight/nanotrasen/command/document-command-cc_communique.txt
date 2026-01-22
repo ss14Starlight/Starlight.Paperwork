@@ -1,0 +1,19 @@
+[head=1][color=#135285]────────────────────[/color][/head]
+[color=#1b67a5]█▀▀ █▀▄▀█ █▀▀▄[/color] [head=3]  [color=#135285]COMMAND STAFF[/color][/head]
+[color=#1b67a5]█░░ █░▀░█ █░░█[/color][bolditalic]  [color=#135285] Heads are here to command the bodies[/color][/bolditalic]
+[color=#1b67a5]▀▀▀ ▀░░░▀ ▀▀▀░[/color]   [color=#aaaaaa][italic]OFFICIAL COMMAND OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#135285]────────────────────[/color][/head]
+                                     [color=#135285][bold]FAX COMMUNIQUÉ[/bold][/color]
+
+[bold]To: [color=#009100]Central Command[/color][/bold]
+[bold]From:[/bold] YOUR NAME AND POSITION
+[bold]Subject:[/bold] WHY DO YOU CALL US 
+[mono]
+Good day, Central Command.
+
+YOUR MESSAGE
+[/mono]
+[italic]Sincerely yours, YOUR NAME, YOUR JOB.[/italic]
+
+[head=1]────────────────────[/head]
+                                                              [italic]Stamps[/italic]

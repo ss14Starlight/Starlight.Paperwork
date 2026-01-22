@@ -1,0 +1,33 @@
+[head=1][color=#135285]────────────────────[/color][/head]
+[color=#1b67a5]█▀▀ █▀▄▀█ █▀▀▄[/color] [head=3] [color=#135285]COMMAND STAFF[/color][/head]
+[color=#1b67a5]█░░ █░▀░█ █░░█[/color][bolditalic] [color=#135285] Heads are here to command the bodies[/color][/bolditalic]
+[color=#1b67a5]▀▀▀ ▀░░░▀ ▀▀▀░[/color]  [color=#aaaaaa][italic]OFFICIAL COMMAND OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#135285]────────────────────[/color][/head]
+                          [bold]CERTIFICATE OF APPRECIATION[/bold]
+
+[italic]This document serves as an official commendation paper, praising the good work or behaviour of an employee. It should be, if possible, be accompanied by a medal. In rare occasions, this may also be accompanied by a pay raise at the discretion of Central Command.[/italic]
+
+[bold]Issuer of Certificate:[/bold] YOUR NAME
+[bold]Position:[/bold] YOUR JOB
+
+[bold]Certificate issued to:[/bold] THEIR NAME
+[bold]Position:[/bold] THEIR JOB
+
+[bold]Commendable actions:[/bold]
+[bullet]
+[bullet]
+[bullet]
+
+[bold]Additional comments:[/bold] [italic](optionnal)[/italic]
+YOUR COMMENTS HERE
+
+[bold]Prize for Good Behaviour:[/bold] [italic](optionnal)[/italic]
+YOUR PRIZE HERE
+
+[bold]STAMPS REQUIRED:[/bold]
+[bullet] [color=#1b67a5][bold]Head of Staff[/bold][/color] [italic](if issued by Head of Staff)
+[bullet] [color=#DFBC00][bold]Captain[/bold][/color] [italic](if issued by Captain)[/italic]
+[bullet] [color=#009100][bold]Central Command[/bold][/color] [italic](if issued by Central Command)[/italic]
+
+[head=1]────────────────────[/head]
+                                              [italic]Stamps[/italic]

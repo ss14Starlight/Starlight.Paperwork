@@ -1,0 +1,20 @@
+[head=1][color=#73b834]────────────────────[/color][/head]
+[color=#9fed58]█▀▀ █▀▀█ ▀█░█▀[/color] [head=3]   [color=#73b834]SERVICE DEPARTMENT[/color][/head]
+[color=#9fed58]▀▀█ █▄▄▀ ░█▄█░[/color][bolditalic]   [color=#73b834] Servicing the crew for more productivity[/color][/bolditalic]
+[color=#9fed58]▀▀▀ ▀░▀▀ ░░▀░░[/color]    [color=#aaaaaa][italic]OFFICIAL SERVICE OFFICE DOCUMENT[/italic][/color]
+[head=1][color=#73b834]────────────────────[/color][/head]
+
+                             [mono][head=1]NEWS REPORT[/head][/mono]
+        [color=#aaaaaa][mono][italic]Brought to you by the service department.[/italic][/mono][/color]
+[head=1][color=#050505]────────────────────[/color][/head]
+[bold][mono]Written by:[/mono][/bold] [signature]
+[bold][mono]Date and Time:[/mono][/bold] [form]
+[bold][mono]Station Designation:[/mono][/bold] [form]
+
+[head=1][color=#050505]────────────────────[/color][/head]
+
+[head=2]HEADLINE HERE[/head]
+
+[mono][form][/mono]
+
+[head=1][color=#050505]────────────────────[/color][/head]
