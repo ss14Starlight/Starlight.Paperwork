@@ -28,5 +28,83 @@ DESTROY AFTER READING[/head][/color]
 [text here]
 
     [color=#aaaaaa][bold][italic]END OF FAX
-    
- 
+
+
+
+[color=#550000]╔═════════════════╦═════════════════════╗[/color]
+[color=#550000]║░▄█▀▀▀█▐█▄░░░▄█▌░║[color=#4D4D4D][bold]SUBJECT: [color=black]███████████[/color]
+[color=#550000]║░█▌░░░░▐█▀█▄█▀█▌░║[/color]SENDER: [color=black]██████ █████[/color]
+[color=#550000]║░█▌░▄▄▄▐█░░░░░█▌░║[/color]RECIPIENT: [color=black]███ ██████[/color]
+[color=#550000]║░█▌░░░█▐█░░░░░█▌░║[/color]FAX #11993
+[color=#550000]║░▀█▄▄█▀▐█▄░░░▄█▌░║[/color]MACHINE ID: [color=black]██████[/color]
+[color=#550000]╚═════════════════╩═════════════════════╝[/color]
+[color=Red][dothead=1]Gorlex Marauders[/head][/color] [color=DarkRed]Death to Nanotrasen[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+    [color=#aaaaaa][bold][italic]START OF FAX[/color][/italic]
+
+[dothead=1][text here][/head]
+
+    [color=#aaaaaa][bold][italic]END OF FAX 
+
+
+
+[color=#FFAE00]╔═════════════════╦═════════════════════╗[/color]
+[color=#FFAE00]║██▀░█████████░▀██║[color=#4D4D4D][bold]SUBJECT: [color=black]Official Package[/color]
+[color=#FFAE00]║█▌░░█[color=#D67600]███[/color]█[color=#D67600]███[/color]█░░▐█║[/color]SENDER: [color=black]Waffle. Co.[/color]
+[color=#FFAE00]║█▌░░█████████░░▐█║[/color]RECIPIENT: [color=black]███ ██████[/color]
+[color=#FFAE00]║█▌░░█[color=#D67600]███[/color]█[color=#D67600]███[/color]█░░▐█║[/color]FAX #7800
+[color=#FFAE00]║██▄░█████████░▄██║[/color]MACHINE ID: [color=black]██████[/color]
+[color=#FFAE00]╚═════════════════╩═════════════════════╝[/color]
+[color=Orange][dotshead=1]Waffle. Co.[/head][/color] [color=DarkOrange]Thank you for using our Services.[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[color=#aaaaaa][bold][italic]Package Description[/color][/italic]
+
+[dots condensed bold]Items[/dots]
+
+[dots condensed bold]How to use it[/dots]
+
+[dots condensed bold]Disclaimer Here[/dots]
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+
+
+[color=DarkRed]╔═════════════════╦═════════════════════╗[/color]
+[color=OrangeRed]║██▀░░▄█████▄░░▀██║[color=#4D4D4D][bold]SUBJECT: [color=Navy]███████████[/color]
+[color=Red]║█▌░░░██▄░░░░░░░▐█║[/color]SENDER: [color=blue]██████ █████[/color]
+[color=IndianRed]║█▌░░░░▀███▄░░░░▐█║[/color]RECIPIENT: [color=LightBlue]███ ██████[/color]
+[color=Brown]║█▌░░░░░░░▀██░░░▐█║[/color]FAX: [color=RoyalBlue]#=%(£$[/color]
+[color=#550000]║██▄░░▀█████▀░░▄██║[/color]MACHINE ID: [color=MidnightBlue]██████[/color]
+[color=#550000]╚═════════════════╩═════════════════════╝[/color]
+
+[dots duo condensed bold][color=MidnightBlue]██dera██on A███yt█cs ███ In████i█en██ Di██cto███e[/color][/dots]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+    [color=blue][bold][italic]START OF FAX[/color][/italic]
+
+[dots duo condensed bold][color=DodgerBlue]Fax Intercepted:
+
+Your text[/color][/dots]
+
+    [color=blue][bold][italic]END OF FAX
+
+[color=MidnightBlue][color=Navy][/color][/color]
+
+
+
+[color=DarkGoldenRod]╔═════════════════╦═════════════════════╗[/color]
+[color=DarkGoldenRod]║░░░[color=Gold]▀██▀[/color]░░░[color=Gold]█▀▀▀[/color]░░░║[color=#4D4D4D][bold]SUBJECT: [color=black]Call to Crusade[/color]
+[color=DarkGoldenRod]║░░░░[color=Gold]██[/color]░░░░[color=Gold]█▄▄▄[/color]░░░║[/color]SENDER: [color=black]Tiger Cooperative[/color]
+[color=DarkGoldenRod]║░░░[color=DarkRed]▄▄▄▄[/color]░░░[color=DarkRed]▄▄▄▄[/color]░░░║[/color]RECIPIENT: [color=black]███ ██████[/color]
+[color=DarkGoldenRod]║░░[color=Red]▐████▌[/color]░[color=Red]▐████▌[/color]░░║[/color]FAX #11993
+[color=DarkGoldenRod]║░░░[color=DarkRed]▀▀▀▀[/color]░░░[color=DarkRed]▀▀▀▀[/color]░░░║[/color]MACHINE ID: [color=black]██████[/color]
+[color=DarkGoldenRod]╚═════════════════╩═════════════════════╝[/color]
+[color=GoldenRod][head=1][dots duo condensed bold]Tiger Cooperative[/dots][/head][/color] 
+[color=Orange]God Be Blessed[/color]
+[color=Yellow]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+    [color=#aaaaaa][bold][italic]START OF FAX[/color][/italic]
+
+Your Text Here
+
+     [color=#aaaaaa][bold][italic]END OF FAX[/color][/italic]
+
+
